@@ -10,5 +10,5 @@ The other scripts are the 3 models that have achived the best results during our
 
 |      |          1-step |          2-step |    MLP |
 |------|----------------:|----------------:|-------:|
-| test | \textbf{0.9423} |          0.9415 | 0.8597 |
-| VK   |          0.8187 | \textbf{0.8251} | 0.7618 |
+| test |          0.9423 |          0.9415 | 0.8597 |
+| VK   |          0.8187 |          0.8251 | 0.7618 |
