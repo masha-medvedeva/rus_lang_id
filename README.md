@@ -2,7 +2,7 @@
 
 This repostory consists of data and code used for master thesis 'Large-Scale Language Identification for Closely Related Languages'.
 
-Text files are the datasets used for training, developing and testing, including out-of-domain testing (VK)
+Text files are the datasets used for training, developing and testing, including out-of-domain testing (VK). They are too big to push to this repository, but I'll find a way to fix it soon.
 
 create_dataset.py is the script that we used to extract sentences from the data available at http://web-corpora.net/wsgi3/minorlangs/download
 
